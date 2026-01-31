@@ -13,7 +13,7 @@ O bot se conecta ao chat usando **tmi.js** e é executado em ambiente isolado vi
 
 ### 🎯 Objetivo do projeto
 
-Este projeto foi desenvolvido inicialmente para fins de estudo e portfólio.
+Este projeto foi desenvolvido inicialmente para fins de estudo de **Docker** e portfólio.
 <!-- No futuro, a intenção é evoluí-lo para atender múltiplos streamers de forma simples e segura. -->
 
 ## ✨ Funcionalidades
