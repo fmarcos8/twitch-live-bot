@@ -1,0 +1,39 @@
+{
+  "name": "node-twitch-bot",
+  "version": "0.0.1-dev",
+  "description": "🤖 Bot da Twitch em Node.js com autenticação, MySQL e estrutura pronta para painel.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node --watch index.js"
+  },
+  "keywords": [
+    "twitch",
+    "bot",
+    "nodejs",
+    "mysql",
+    "express",
+    "esmodules"
+  ],
+  "author": {
+    "name": "Francisco M Marcos",
+    "email": "francisco-marcos@hotmail.com",
+    "url": "https://github.com/fmarcos8"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fmarcos8/node-twitch-bot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/fmarcos8/node-twitch-bot/issues"
+  },
+  "dependencies": {
+    "body-parser": "^2.2.2",
+    "crypto": "^1.0.1",
+    "dotenv": "^16.3.1",
+    "express": "^5.2.1",
+    "nodemon": "^3.1.11",
+    "tmi.js": "^1.8.5"
+  }
+}
